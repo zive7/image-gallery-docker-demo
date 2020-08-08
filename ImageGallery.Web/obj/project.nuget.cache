@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Wm7ug3j2wp/DaQmo3N26J/rB5IjE8rkn9VRANOpmhaqylw1aR9cMln2L35hvCjroI15qNeqfrr6wdcryfqj1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zivko\\source\\repos\\DockerDemo\\ImageGallery.Web\\ImageGallery.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zivko\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\zivko\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

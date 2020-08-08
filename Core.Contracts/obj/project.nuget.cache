@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7niVu+9Lfzej8Qk/E7pxgngZa3mG9Vi0eKLnYlK3WDL3TokSq8XRMgTznVrgdfD8dEhtAaZ8tztQG2YWyjXthw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zivko\\source\\repos\\DockerDemo\\Core.Contracts\\Core.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zivko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

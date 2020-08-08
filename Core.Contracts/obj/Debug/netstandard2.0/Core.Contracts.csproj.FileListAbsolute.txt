@@ -1,0 +1,9 @@
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\bin\Debug\netstandard2.0\Core.Contracts.deps.json
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\bin\Debug\netstandard2.0\Core.Contracts.dll
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\bin\Debug\netstandard2.0\Core.Contracts.pdb
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\obj\Debug\netstandard2.0\Core.Contracts.csprojAssemblyReference.cache
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\obj\Debug\netstandard2.0\Core.Contracts.AssemblyInfoInputs.cache
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\obj\Debug\netstandard2.0\Core.Contracts.AssemblyInfo.cs
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\obj\Debug\netstandard2.0\Core.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\obj\Debug\netstandard2.0\Core.Contracts.dll
+C:\Users\zivko\source\repos\DockerDemo\Core.Contracts\obj\Debug\netstandard2.0\Core.Contracts.pdb

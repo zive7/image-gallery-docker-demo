@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  imagegallery.web:
+    image: ${DOCKER_REGISTRY-}imagegalleryweb
+    build:
+      context: .
+      dockerfile: ImageGallery.Web/Dockerfile
+  image.api:
+    image: ${DOCKER_REGISTRY-}imageapi
+    build:
+      context: .
+      dockerfile: Image.Api/Dockerfile

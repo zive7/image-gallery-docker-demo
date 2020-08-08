@@ -1,0 +1,17 @@
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\ImageGallery.Web.Views.dll
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\ImageGallery.Web.Views.pdb
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\appsettings.Development.json
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\appsettings.json
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Properties\launchSettings.json
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\ImageGallery.Web.exe
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\ImageGallery.Web.dll
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\ImageGallery.Web.pdb
+C:\Users\zivko\source\repos\DockerDemo\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\zivko\source\repos\DockerDemo\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\zivko\source\repos\DockerDemo\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Image.Api.exe
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Image.Api.dll
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Image.Api.pdb
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Core.Contracts.dll
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Core.Contracts.pdb
+C:\Users\zivko\source\repos\DockerDemo\bin\Debug\Newtonsoft.Json.dll

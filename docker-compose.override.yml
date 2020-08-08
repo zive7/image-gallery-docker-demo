@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  imagegallery.web:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${APP_ENVIRONMENT}
+      - ASPNETCORE_URLS=http://0.0.0.0:80
+      - urls__imageApi=${API_URL}
+    ports:
+      - "50000:80"
+  image.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=${APP_ENVIRONMENT}
+      - ASPNETCORE_URLS=http://0.0.0.0:80
+    ports:
+      - "50001:80"

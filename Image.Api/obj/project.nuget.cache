@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZTnLvtyR7aiX4fAv+2pByZLcF78o+9WDrmcqUP04jvg2rwEE34BhKOouiXkywOjH0DwbDess9/diHu2MzzZNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zivko\\source\\repos\\DockerDemo\\Image.Api\\Image.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zivko\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
